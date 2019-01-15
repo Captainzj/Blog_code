@@ -18,4 +18,12 @@
 
 [python Deep learning 学习笔记（4）](https://www.cnblogs.com/zhhfan/p/9978099.html)
 
+    - Note4_1.py
+    - Note4_2.py
+    - Note4_3.py
 
+[python Deep learning 学习笔记（5）](https://www.cnblogs.com/zhhfan/p/9985991.html)
+
+    - Note5_1.py
+    - Note5_2.py
+    - Note5_3.py
